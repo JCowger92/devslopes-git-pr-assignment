@@ -1,0 +1,35 @@
+# System generated files
+*.swp
+*.suo
+*.suo.cache
+*.ncb
+*.sdf
+*.ipsettings
+*.cache
+*.log
+*.tmp
+*.bak
+*~
+Thumbs.db
+.DS_Store 
+
+# Compiled/Generated Files
+*.pyc
+*.o
+*.so
+*.a
+*.exe 
+*.dll 
+
+# IDE specific
+.idea/
+*.iml
+
+# Sensitive Data
+*.key
+*.pem
+*.p12
+*.pfx
+*.env*
+*.password
+*.secret 
